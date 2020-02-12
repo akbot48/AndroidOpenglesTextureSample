@@ -1,0 +1,5 @@
+com.openglesbook.simpletexture2d
+drawable icon
+drawable texcoord
+drawable texcoord3x3
+string app_name

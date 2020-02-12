@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [:common] D:\AndroidSample\Simple_Texture2D\common\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:3:7-49
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [:common] D:\AndroidSample\Simple_Texture2D\common\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:common] D:\AndroidSample\Simple_Texture2D\common\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:10:2-75
+MERGED from [:common] D:\AndroidSample\Simple_Texture2D\common\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-14:35
+MERGED from [:common] D:\AndroidSample\Simple_Texture2D\common\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-14:35
+	android:glEsVersion
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:10:16-48
+	android:required
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:10:49-72
+application
+ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:12:5-24:19
+MERGED from [:common] D:\AndroidSample\Simple_Texture2D\common\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-19:19
+MERGED from [:common] D:\AndroidSample\Simple_Texture2D\common\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-19:19
+	android:label
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:13:18-50
+	android:icon
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:12:18-47
+	android:allowBackup
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:14:18-45
+activity#com.openglesbook.simpletexture2d.SimpleTexture2D
+ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:label
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:17:19-51
+	android:name
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:16:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\AndroidSample\Simple_Texture2D\app\src\main\AndroidManifest.xml:20:27-74

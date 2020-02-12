@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidSample\\Simple_Texture2D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\AndroidSample\\Simple_Texture2D\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidSample\\Simple_Texture2D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_texcoord3x3.png.flat",
+        "source": "D:\\AndroidSample\\Simple_Texture2D\\app\\src\\main\\res\\drawable-hdpi\\texcoord3x3.png"
+    },
+    {
+        "merged": "D:\\AndroidSample\\Simple_Texture2D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\AndroidSample\\Simple_Texture2D\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidSample\\Simple_Texture2D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_texcoord.png.flat",
+        "source": "D:\\AndroidSample\\Simple_Texture2D\\app\\src\\main\\res\\drawable-hdpi\\texcoord.png"
+    },
+    {
+        "merged": "D:\\AndroidSample\\Simple_Texture2D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\AndroidSample\\Simple_Texture2D\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]
